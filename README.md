@@ -1,5 +1,5 @@
 # InternIntelligence_TheHive-Analysis
-# Hive Ransomware - Comprehensive Analysis Report
+# Comprehensive Analysis Report
 ## Introduction
 This report presents a detailed analysis of Hive Ransomware, a highly sophisticated and destructive malware strain known for its ransomware-as-a-service (RaaS) model. Hive has been actively used by cybercriminal groups to target organizations worldwide, encrypting critical files and demanding ransom payments for decryption. It employs advanced encryption algorithms, stealth techniques, and persistence mechanisms to maximize its impact while evading detection.
 ![image](https://github.com/user-attachments/assets/08af43d5-e815-460a-a9b3-2ebdb6c1909f)
